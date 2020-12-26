@@ -4,6 +4,6 @@ class Dog
       @name = "Fido" 
       @breed = breed 
     end 
- end
+ end 
  
    
